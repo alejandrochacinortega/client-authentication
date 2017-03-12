@@ -1,25 +1,14 @@
-# ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
-###Getting Started###
+## info ##
 
-There are two methods for getting started with this repo.
+Back end server with authentication using Express, Mongo, Passport
 
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
+This projects has authentication for new and existing users in the client end side using React & Redux.
+The back end for this project is back-end-server-with-authentication
 
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
 
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+## setup ##
 
-```
-	> npm install
-	> npm start
-```
+npm install
+npm start
